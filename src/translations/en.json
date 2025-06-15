@@ -1,3 +1,4 @@
+// src/translations/en.json
 {
   "header": {
     "home": "Home",
@@ -12,17 +13,17 @@
     "view_products": "View Products",
     "get_started": "Get Started",
     "stats": {
-      "happy_farmers": "500+ Happy Farmers",
-      "success_rate": "98% Success Rate",
+      "happy_farmers": "1000+ Happy Farmers",
+      "success_rate": "20% Cost Savings",
       "support": "24/7 Support"
     },
     "cards": {
-      "smart_farming": "Smart Farming",
-      "smart_farming_sub": "AI-Powered",
-      "iot_sensors": "IoT Sensors",
-      "iot_sensors_sub": "Real-Time Data",
-      "precision_agriculture": "Precision Agriculture",
-      "precision_agriculture_sub": "Accuracy"
+      "smart_farming": "WhatsApp Marketplace",
+      "smart_farming_sub": "Direct Purchase",
+      "iot_sensors": "Real-Time Weather",
+      "iot_sensors_sub": "Crop Planning",
+      "precision_agriculture": "Smart Farming",
+      "precision_agriculture_sub": "Profitable Growth"
     }
   },
   "about": {
@@ -50,6 +51,53 @@
       }
     }
   },
+  "offerings": {
+    "title": "Our Offerings",
+    "description": "Discover a wide range of high-quality agricultural products designed to help you grow smarter and more sustainably.",
+    "seeds": {
+      "title": "Seeds",
+      "description": "High-quality seeds for better yields and sustainable farming."
+    },
+    "fertilizers": {
+      "title": "Fertilizers",
+      "description": "Effective fertilizers to nourish your crops and boost growth."
+    },
+    "plants": {
+      "title": "Plants",
+      "description": "Healthy plants to diversify your farm and increase profits."
+    },
+    "explore": "Explore Now",
+    "cta": {
+      "title": "Ready to Grow Smarter?",
+      "description": "Explore our full range of products and start transforming your farm today.",
+      "button": "Browse Products"
+    }
+  },
+  "services": {
+    "title": "Our Products",
+    "description": "Explore our curated selection of agricultural products designed to empower farmers with the best tools for success.",
+    "filter": "Filter by Category",
+    "all": "All",
+    "insecticides": "Insecticides",
+    "seeds": "Seeds",
+    "fertilizers": "Fertilizers",
+    "plants": "Plants",
+    "sort": "Sort by",
+    "price_low": "Price: Low to High",
+    "price_high": "Price: High to Low",
+    "view_details": "View Details",
+    "add_to_cart": "Add to Cart",
+    "added": "Added to Cart"
+  },
+  "cart": {
+    "title": "Your Cart",
+    "empty": "Your cart is empty",
+    "start_shopping": "Start Shopping",
+    "subtotal": "Subtotal",
+    "checkout": "Checkout on WhatsApp",
+    "remove": "Remove",
+    "close": "Close"
+  },
   "testimonials": {
     "title": "What Our Customers Say",
     "description": "Hear from farmers and agricultural professionals who have transformed their operations with our innovative solutions.",
@@ -76,54 +124,227 @@
       }
     ]
   },
+  "contact": {
+    "title": "Get in Touch",
+    "description": "Ready to transform your farming operations? Contact our team of experts to discuss your needs and find the perfect solution for your farm.",
+    "info": {
+      "title": "Contact Information",
+      "phone": {
+        "title": "Phone",
+        "value": "+91 89049 59058"
+      },
+      "email": {
+        "title": "Email",
+        "value": "contact.agrow@gmail.com"
+      },
+      "whatsapp": {
+        "title": "WhatsApp Community",
+        "value": "Join our farming community"
+      }
+    },
+    "social": {
+      "title": "Connect With Us",
+      "whatsapp": {
+        "title": "WhatsApp Support",
+        "description": "Get instant support and connect with our team"
+      },
+      "facebook_page": {
+        "title": "Facebook Page",
+        "description": "Follow us for updates and farming tips"
+      },
+      "facebook_community": {
+        "title": "Facebook Community",
+        "description": "Join our farming community group"
+      }
+    },
+    "support": {
+      "title": "Quick Support",
+      "description": "Need immediate assistance? Contact us directly via WhatsApp for quick support and real-time communication with our team.",
+      "button": "Chat on WhatsApp"
+    },
+    "form": {
+      "title": "Send us a Message",
+      "submission_message": "New Contact Form Submission:\n\nName: {{name}}\nEmail: {{email}}\nPhone: {{phone}}\nMessage: {{message}}",
+      "success_title": "Message Sent!",
+      "success_message": "We'll get back to you soon via WhatsApp.",
+      "name_label": "Full Name",
+      "name_placeholder": "Enter your full name",
+      "email_label": "Email Address",
+      "email_placeholder": "Enter your email",
+      "phone_label": "Phone Number",
+      "phone_placeholder": "Enter your phone number",
+      "message_label": "Message",
+      "message_placeholder": "Tell us about your needs...",
+      "submitting": "Sending...",
+      "submit_button": "Send Message"
+    }
+  },
+  "footer": {
+    "description": "Agrow is your one-stop app for seeds, fertilizers, plants, weather updates, and more, empowering Indian farmers to grow smarter. Join our community today! 🌾",
+    "company": {
+      "title": "Company",
+      "about": "About Us",
+      "mission": "Our Mission",
+      "services": "Services",
+      "contact": "Contact"
+    },
+    "products": {
+      "title": "Products",
+      "insecticides": "Insecticides",
+      "seeds": "Seeds",
+      "fertilizers": "Fertilizers",
+      "plants": "Plants"
+    },
+    "support": {
+      "title": "Support",
+      "documentation": "Documentation",
+      "installation": "Installation Guide",
+      "technical": "Technical Support",
+      "warranty": "Warranty"
+    },
+    "legal": {
+      "title": "Legal",
+      "terms": "Terms of Use",
+      "privacy": "Privacy Policy",
+      "cookie": "Cookie Policy",
+      "gdpr": "GDPR Compliance"
+    },
+    "social": {
+      "facebook_page": "Facebook Page",
+      "facebook_community": "Facebook Community",
+      "instagram": "Instagram",
+      "whatsapp": "WhatsApp Community"
+    },
+    "copyright": "© {{year}} Agrow. All rights reserved.",
+    "trademark": "Registered trademark of Agrow"
+  },
+  "mission": {
+    "title": "Our Mission",
+    "description": "Transforming agriculture by making farming simpler, smarter, and more profitable for every farmer across India.",
+    "subheading": "Your Trusted Farming Partner",
+    "text1": "At Agrow, we're dedicated to transforming the lives of India's small and marginal farmers by making farming simpler, smarter, and more profitable. Our easy-to-use platform provides essential farming information and real-time weather updates to help you plan your crops with confidence.",
+    "text2": "Through our WhatsApp marketplace, you can directly purchase high-quality seeds, fertilizers, and plants at fair prices, saving time and ensuring you get the best for your farm. Whether you're preparing for the sowing season or managing your harvest, Agrow is with you every step of the way.",
+    "community": {
+      "title": "Join Our Community",
+      "description": "Join thousands of farmers who are growing smarter with Agrow. Connect with us today and discover how we can help transform your farming journey."
+    },
+    "values": {
+      "supporting_farmers": {
+        "title": "Supporting Small Farmers",
+        "description": "Dedicated to transforming the lives of India's small and marginal farmers through accessible technology."
+      },
+      "easy_access": {
+        "title": "Easy Access",
+        "description": "Simple-to-use website and WhatsApp marketplace that makes farming information and supplies easily accessible."
+      },
+      "trusted_partnership": {
+        "title": "Trusted Partnership",
+        "description": "Your reliable partner every step of the way, from sowing season to harvest management."
+      },
+      "smart_growth": {
+        "title": "Smart Growth",
+        "description": "Helping farmers grow smarter with data-driven insights and quality products at fair prices."
+      }
+    }
+  },
+  "terms": {
+    "title": "Terms of Use",
+    "description": "Please read these terms carefully before using our services.",
+    "last_updated": "Last updated: May 2025",
+    "sections": {
+      "terms_of_service": {
+        "title": "Terms of Service",
+        "content": [
+          "By accessing and using Agrow's website and services, you agree to be bound by these Terms of Use.",
+          "Our services are provided for agricultural and educational purposes only.",
+          "You must be at least 18 years old to use our services or have parental consent.",
+          "All information provided must be accurate and up-to-date."
+        ]
+      },
+      "privacy": {
+        "title": "Privacy & Data Protection",
+        "content": [
+          "We collect and process personal data in accordance with applicable privacy laws.",
+          "Your personal information is used solely for service delivery and customer support.",
+          "We implement industry-standard security measures to protect your data.",
+          "We do not sell or share your personal information with third parties without consent."
+        ]
+      },
+      "user_responsibilities": {
+        "title": "User Responsibilities",
+        "content": [
+          "Users must provide accurate information when creating accounts or placing orders.",
+          "Proper use of agricultural equipment is the responsibility of the purchaser.",
+          "Users must comply with local regulations regarding agricultural technology use.",
+          "Any misuse of our products or services may result in account termination."
+        ]
+      },
+      "limitations": {
+        "title": "Limitations & Disclaimers",
+        "content": [
+          "Agrow products are designed to assist farming operations but do not guarantee specific outcomes.",
+          "We are not liable for crop failures or losses due to external factors beyond our control.",
+          "Warranty terms are specific to each product and are detailed in product documentation.",
+          "Our liability is limited to the purchase price of the product or service."
+        ]
+      }
+    },
+    "contact": {
+      "title": "Questions about our Terms?",
+      "description": "If you have any questions about these Terms of Use, please don't hesitate to contact us.",
+      "email_button": "Email Legal Team",
+      "call_button": "Call Support"
+    },
+    "footer": "By continuing to use our services, you acknowledge that you have read, understood, and agree to be bound by these Terms of Use."
+  },
   "language_popup": {
     "title": "Choose Your Language",
     "select": "Select Language",
     "confirm": "Confirm"
   },
   "weather": {
-  "rajasthan": {
-    "location": "Jaipur, Rajasthan",
-    "condition": "Hot & Sunny",
-    "forecast": {
-      "today": "Today",
-      "tomorrow": "Tomorrow",
-      "wed": "Wed",
-      "thu": "Thu",
-      "fri": "Fri",
-      "sunny": "Sunny",
-      "hot": "Hot",
-      "cloudy": "Cloudy"
+    "rajasthan": {
+      "location": "Jaipur, Rajasthan",
+      "condition": "Hot & Sunny",
+      "forecast": {
+        "today": "Today",
+        "tomorrow": "Tomorrow",
+        "wed": "Wed",
+        "thu": "Thu",
+        "fri": "Fri",
+        "sunny": "Sunny",
+        "hot": "Hot",
+        "cloudy": "Cloudy"
+      },
+      "tips": {
+        "irrigation": "Irrigate early in the morning due to heat",
+        "shade": "Use shade to protect crops from intense sunlight",
+        "drip": "Use drip irrigation to save water"
+      }
     },
-    "tips": {
-      "irrigation": "Irrigate early in the morning due to heat",
-      "shade": "Use shade to protect crops from intense sunlight",
-      "drip": "Use drip irrigation to save water"
-    }
-  },
-  "chennai": {
-    "location": "Chennai, Tamil Nadu",
-    "condition": "Humid & Partly Cloudy",
-    "forecast": {
-      "today": "Today",
-      "tomorrow": "Tomorrow",
-      "wed": "Wed",
-      "thu": "Thu",
-      "fri": "Fri",
-      "cloudy": "Cloudy",
-      "rainy": "Rainy",
-      "sunny": "Sunny"
+    "chennai": {
+      "location": "Chennai, Tamil Nadu",
+      "condition": "Humid & Partly Cloudy",
+      "forecast": {
+        "today": "Today",
+        "tomorrow": "Tomorrow",
+        "wed": "Wed",
+        "thu": "Thu",
+        "fri": "Fri",
+        "cloudy": "Cloudy",
+        "rainy": "Rainy",
+        "sunny": "Sunny"
+      },
+      "tips": {
+        "fungus": "Monitor for fungal diseases due to high humidity",
+        "drainage": "Ensure proper drainage during the rainy season",
+        "ventilation": "Use coastal winds to enhance natural ventilation"
+      }
     },
-    "tips": {
-      "fungus": "Monitor for fungal diseases due to high humidity",
-      "drainage": "Ensure proper drainage during the rainy season",
-      "ventilation": "Use coastal winds to enhance natural ventilation"
-    }
-  },
-  "humidity": "Humidity",
-  "wind": "Wind",
-  "forecast_title": "5-Day Forecast",
-  "tips_title": "🌾 Farming Tips",
-  "source": "Weather data updates every 30 seconds"
-}
+    "humidity": "Humidity",
+    "wind": "Wind",
+    "forecast_title": "5-Day Forecast",
+    "tips_title": "🌾 Farming Tips",
+    "source": "Weather data updates every 30 seconds"
+  }
 }
