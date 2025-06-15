@@ -1,0 +1,84 @@
+{
+  "header": {
+    "home": "ഹോം",
+    "services": "സേവനങ്ങൾ",
+    "contact": "ബന്ധപ്പെടുക",
+    "terms": "നിബന്ധനകൾ",
+    "weather": "കാലാവസ്ഥ അപ്ഡേറ്റുകൾ"
+  },
+  "hero": {
+    "headline": "[Malayalam translation for Growing the Future of Indian Agriculture]",
+    "description": "[Malayalam translation for description]",
+    "view_products": "ഉൽപ്പന്നങ്ങൾ കാണുക",
+    "get_started": "തുടങ്ങുക",
+    "stats": {
+      "happy_farmers": "500+ സന്തുഷ്ടരായ കർഷകർ",
+      "success_rate": "98% വിജയ നിരക്ക്",
+      "support": "24/7 പിന്തുണ"
+    },
+    "cards": {
+      "smart_farming": "സ്മാർട്ട് കൃഷി",
+      "smart_farming_sub": "AI-നിന്റെ ശക്തിയിൽ",
+      "iot_sensors": "IoT സെൻസറുകൾ",
+      "iot_sensors_sub": "തത്സമയ ഡാറ്റ",
+      "precision_agriculture": "കൃത്യമായ കൃഷി",
+      "precision_agriculture_sub": "കൃത്യത"
+    }
+  },
+  "about": {
+    "title": "Agrow-നെ കുറിച്ച്",
+    "description": "[Malayalam translation for description]",
+    "subheading": "സാങ്കേതികവിദ്യയോടെ കൃഷിയെ പരിവർത്തനം ചെയ്യുന്നു",
+    "text1": "[Malayalam translation for text1]",
+    "highlight": "രാജസ്ഥാൻ, തമിഴ്നാട് കർഷകർക്കായി പ്രത്യേകം രൂപകൽപ്പന ചെയ്തത്",
+    "features": {
+      "expert_team": {
+        "title": "വിദഗ്ധ സംഘം",
+        "description": "[Malayalam translation for description]"
+      },
+      "proven_results": {
+        "title": "തെളിയിക്കപ്പെട്ട ഫലങ്ങൾ",
+        "description": "[Malayalam translation for description]"
+      },
+      "local_reach": {
+        "title": "പ്രാദേശിക എത്തൽ",
+        "description": "[Malayalam translation for description]"
+      },
+      "growth_focused": {
+        "title": "വളർച്ച കേന്ദ്രീകൃതം",
+        "description": "[Malayalam translation for description]"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "ഞങ്ങളുടെ ഉപഭോക്താക്കൾ എന്താണ് പറയുന്നത്",
+    "description": "[Malayalam translation for description]",
+    "join_cta": "ലോകമെമ്പാടുമുള്ള ആയിരക്കണക്കിന് സംതൃപ്തരായ ഉപഭോക്താക്കളോടൊപ്പം ചേരുക",
+    "start_journey": "നിന്റെ യാത്ര ആരംഭിക്കുക",
+    "items": [
+      {
+        "name": "റാം സിംഗ്",
+        "role": "ഓർഗാനിക് കർഷകൻ",
+        "location": "ജയ്പൂർ, രാജസ്ഥാൻ",
+        "text": "[Malayalam translation for text]"
+      },
+      {
+        "name": "മുരുകൻ",
+        "role": "വാണിജ്യ കർഷകൻ",
+        "location": "ചെന്നൈ, തമിഴ്നാട്",
+        "text": "[Malayalam translation for text]"
+      },
+      {
+        "name": "പ്രിയ ശർമ്മ",
+        "role": "ഗ്രീൻഹൗസ് മാനേജർ",
+        "location": "ഉദയ്പൂർ, രാജസ്ഥാൻ",
+        "text": "[Malayalam translation for text]"
+      }
+    ]
+  },
+  "language_popup": {
+    "title": "നിന്റെ ഭാഷ തിരഞ്ഞെടുക്കുക",
+    "select": "ഭാഷ തിരഞ്ഞെടുക്കുക",
+    "confirm": "സ്ഥിരീകരിക്കുക"
+  }
+}

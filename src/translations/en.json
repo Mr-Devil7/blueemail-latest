@@ -1,0 +1,129 @@
+{
+  "header": {
+    "home": "Home",
+    "services": "Services",
+    "contact": "Contact",
+    "terms": "Terms",
+    "weather": "Weather Updates"
+  },
+  "hero": {
+    "headline": "Growing the Future of Indian Agriculture",
+    "description": "Empowering farmers in Rajasthan and Tamil Nadu with cutting-edge technology solutions for sustainable, efficient, and profitable agriculture.",
+    "view_products": "View Products",
+    "get_started": "Get Started",
+    "stats": {
+      "happy_farmers": "500+ Happy Farmers",
+      "success_rate": "98% Success Rate",
+      "support": "24/7 Support"
+    },
+    "cards": {
+      "smart_farming": "Smart Farming",
+      "smart_farming_sub": "AI-Powered",
+      "iot_sensors": "IoT Sensors",
+      "iot_sensors_sub": "Real-Time Data",
+      "precision_agriculture": "Precision Agriculture",
+      "precision_agriculture_sub": "Accuracy"
+    }
+  },
+  "about": {
+    "title": "About Agrow",
+    "description": "We are revolutionizing agriculture through innovative technology solutions that empower farmers to achieve sustainable and profitable farming practices.",
+    "subheading": "Transforming Agriculture with Technology",
+    "text1": "Founded in 2020, Agrow has been a leader in Indian agricultural technology innovation. Our mission is to bridge the gap between traditional farming practices and modern technology.",
+    "highlight": "Specially designed for farmers in Rajasthan and Tamil Nadu",
+    "features": {
+      "expert_team": {
+        "title": "Expert Team",
+        "description": "Indian agricultural and technical experts working together for innovation."
+      },
+      "proven_results": {
+        "title": "Proven Results",
+        "description": "Award-winning solutions that have transformed thousands of farms across India."
+      },
+      "local_reach": {
+        "title": "Local Reach",
+        "description": "Providing local support and solutions to farmers in Rajasthan and Tamil Nadu."
+      },
+      "growth_focused": {
+        "title": "Growth Focused",
+        "description": "Helping farmers increase yields while reducing costs and environmental impact."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "What Our Customers Say",
+    "description": "Hear from farmers and agricultural professionals who have transformed their operations with our innovative solutions.",
+    "join_cta": "Join thousands of satisfied customers worldwide",
+    "start_journey": "Start Your Journey",
+    "items": [
+      {
+        "name": "Ram Singh",
+        "role": "Organic Farmer",
+        "location": "Jaipur, Rajasthan",
+        "text": "Agrow’s irrigation system has transformed our farm operations. We’ve reduced water usage by 40% and increased crop yields."
+      },
+      {
+        "name": "Murugan",
+        "role": "Commercial Farmer",
+        "location": "Chennai, Tamil Nadu",
+        "text": "The crop monitoring system has been a game-changer for our large-scale operations. Early issue detection has saved us thousands."
+      },
+      {
+        "name": "Priya Sharma",
+        "role": "Greenhouse Manager",
+        "location": "Udaipur, Rajasthan",
+        "text": "Agrow’s automated greenhouse system has revolutionized our crop management. Precise control and real-time monitoring have significantly improved our crop quality."
+      }
+    ]
+  },
+  "language_popup": {
+    "title": "Choose Your Language",
+    "select": "Select Language",
+    "confirm": "Confirm"
+  },
+  "weather": {
+  "rajasthan": {
+    "location": "Jaipur, Rajasthan",
+    "condition": "Hot & Sunny",
+    "forecast": {
+      "today": "Today",
+      "tomorrow": "Tomorrow",
+      "wed": "Wed",
+      "thu": "Thu",
+      "fri": "Fri",
+      "sunny": "Sunny",
+      "hot": "Hot",
+      "cloudy": "Cloudy"
+    },
+    "tips": {
+      "irrigation": "Irrigate early in the morning due to heat",
+      "shade": "Use shade to protect crops from intense sunlight",
+      "drip": "Use drip irrigation to save water"
+    }
+  },
+  "chennai": {
+    "location": "Chennai, Tamil Nadu",
+    "condition": "Humid & Partly Cloudy",
+    "forecast": {
+      "today": "Today",
+      "tomorrow": "Tomorrow",
+      "wed": "Wed",
+      "thu": "Thu",
+      "fri": "Fri",
+      "cloudy": "Cloudy",
+      "rainy": "Rainy",
+      "sunny": "Sunny"
+    },
+    "tips": {
+      "fungus": "Monitor for fungal diseases due to high humidity",
+      "drainage": "Ensure proper drainage during the rainy season",
+      "ventilation": "Use coastal winds to enhance natural ventilation"
+    }
+  },
+  "humidity": "Humidity",
+  "wind": "Wind",
+  "forecast_title": "5-Day Forecast",
+  "tips_title": "🌾 Farming Tips",
+  "source": "Weather data updates every 30 seconds"
+}
+}

@@ -1,0 +1,84 @@
+{
+  "header": {
+    "home": "హోమ్",
+    "services": "సేవలు",
+    "contact": "సంప్రదించండి",
+    "terms": "నిబంధనలు",
+    "weather": "వాతావరణ నవీకరణలు"
+  },
+  "hero": {
+    "headline": "[Telugu translation for Growing the Future of Indian Agriculture]",
+    "description": "[Telugu translation for description]",
+    "view_products": "ఉత్పత్తులను చూడండి",
+    "get_started": "ప్రారంభించండి",
+    "stats": {
+      "happy_farmers": "500+ సంతోషకరమైన రైతులు",
+      "success_rate": "98% విజయ రేటు",
+      "support": "24/7 మద్దతు"
+    },
+    "cards": {
+      "smart_farming": "స్మార్ట్ వ్యవసాయం",
+      "smart_farming_sub": "AI-శక్తితో",
+      "iot_sensors": "IoT సెన్సార్లు",
+      "iot_sensors_sub": "రియల్-టైమ్ డేటా",
+      "precision_agriculture": "ఖచ్చితమైన వ్యవసాయం",
+      "precision_agriculture_sub": "ఖచ్చితత్వం"
+    }
+  },
+  "about": {
+    "title": "Agrow గురించి",
+    "description": "[Telugu translation for description]",
+    "subheading": "సాంకేతికతతో వ్యవసాయాన్ని మార్చడం",
+    "text1": "[Telugu translation for text1]",
+    "highlight": "రాజస్థాన్ మరియు తమిళనాడు రైతుల కోసం ప్రత్యేకంగా రూపొందించబడింది",
+    "features": {
+      "expert_team": {
+        "title": "నిపుణుల బృందం",
+        "description": "[Telugu translation for description]"
+      },
+      "proven_results": {
+        "title": "చూపిన ఫలితాలు",
+        "description": "[Telugu translation for description]"
+      },
+      "local_reach": {
+        "title": "స్థానిక పరిధి",
+        "description": "[Telugu translation for description]"
+      },
+      "growth_focused": {
+        "title": "వృద్ధి కేంద్రీకృతం",
+        "description": "[Telugu translation for description]"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "మా కస్టమర్లు ఏమి చెబుతున్నారు",
+    "description": "[Telugu translation for description]",
+    "join_cta": "ప్రపంచవ్యాప్తంగా వేలాది సంతృప్తి చెందిన కస్టమర్లతో చేరండి",
+    "start_journey": "మీ ప్రయాణాన్ని ప్రారంభించండి",
+    "items": [
+      {
+        "name": "రామ్ సింగ్",
+        "role": "ఆర్గానిక్ రైతు",
+        "location": "జైపూర్, రాజస్థాన్",
+        "text": "[Telugu translation for text]"
+      },
+      {
+        "name": "మురుగన్",
+        "role": "వాణిజ్య రైతు",
+        "location": "చెన్నై, తమిళనాడు",
+        "text": "[Telugu translation for text]"
+      },
+      {
+        "name": "ప్రియా శర్మ",
+        "role": "గ్రీన్హౌస్ మేనేజర్",
+        "location": "ఉదయపూర్, రాజస్థాన్",
+        "text": "[Telugu translation for text]"
+      }
+    ]
+  },
+  "language_popup": {
+    "title": "మీ భాషను ఎంచుకోండి",
+    "select": "భాషను ఎంచుకోండి",
+    "confirm": "నిర్ధారించండి"
+  }
+}

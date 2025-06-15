@@ -1,0 +1,84 @@
+{
+  "header": {
+    "home": "[Marwari for Home]",
+    "services": "[Marwari for Services]",
+    "contact": "[Marwari for Contact]",
+    "terms": "[Marwari for Terms]",
+    "weather": "[Marwari for Weather Updates]"
+  },
+  "hero": {
+    "headline": "[Marwari translation for Growing the Future of Indian Agriculture]",
+    "description": "[Marwari translation for description]",
+    "view_products": "[Marwari for View Products]",
+    "get_started": "[Marwari for Get Started]",
+    "stats": {
+      "happy_farmers": "[Marwari for 500+ Happy Farmers]",
+      "success_rate": "[Marwari for 98% Success Rate]",
+      "support": "[Marwari for 24/7 Support]"
+    },
+    "cards": {
+      "smart_farming": "[Marwari for Smart Farming]",
+      "smart_farming_sub": "[Marwari for AI-Powered]",
+      "iot_sensors": "[Marwari for IoT Sensors]",
+      "iot_sensors_sub": "[Marwari for Real-Time Data]",
+      "precision_agriculture": "[Marwari for Precision Agriculture]",
+      "precision_agriculture_sub": "[Marwari for Accuracy]"
+    }
+  },
+  "about": {
+    "title": "[Marwari for About Agrow]",
+    "description": "[Marwari translation for description]",
+    "subheading": "[Marwari for Transforming Agriculture with Technology]",
+    "text1": "[Marwari translation for text1]",
+    "highlight": "[Marwari for Specially designed for farmers in Rajasthan and Tamil Nadu]",
+    "features": {
+      "expert_team": {
+        "title": "[Marwari for Expert Team]",
+        "description": "[Marwari translation for description]"
+      },
+      "proven_results": {
+        "title": "[Marwari for Proven Results]",
+        "description": "[Marwari translation for description]"
+      },
+      "local_reach": {
+        "title": "[Marwari for Local Reach]",
+        "description": "[Marwari translation for description]"
+      },
+      "growth_focused": {
+        "title": "[Marwari for Growth Focused]",
+        "description": "[Marwari translation for description]"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "[Marwari for What Our Customers Say]",
+    "description": "[Marwari translation for description]",
+    "join_cta": "[Marwari for Join thousands of satisfied customers worldwide]",
+    "start_journey": "[Marwari for Start Your Journey]",
+    "items": [
+      {
+        "name": "[Marwari for Ram Singh]",
+        "role": "[Marwari for Organic Farmer]",
+        "location": "[Marwari for Jaipur, Rajasthan]",
+        "text": "[Marwari translation for text]"
+      },
+      {
+        "name": "[Marwari for Murugan]",
+        "role": "[Marwari for Commercial Farmer]",
+        "location": "[Marwari for Chennai, Tamil Nadu]",
+        "text": "[Marwari translation for text]"
+      },
+      {
+        "name": "[Marwari for Priya Sharma]",
+        "role": "[Marwari for Greenhouse Manager]",
+        "location": "[Marwari for Udaipur, Rajasthan]",
+        "text": "[Marwari translation for text]"
+      }
+    ]
+  },
+  "language_popup": {
+    "title": "[Marwari for Choose Your Language]",
+    "select": "[Marwari for Select Language]",
+    "confirm": "[Marwari for Confirm]"
+  }
+}

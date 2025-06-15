@@ -1,0 +1,84 @@
+{
+  "header": {
+    "home": "[Rajasthani for Home]",
+    "services": "[Rajasthani for Services]",
+    "contact": "[Rajasthani for Contact]",
+    "terms": "[Rajasthani for Terms]",
+    "weather": "[Rajasthani for Weather Updates]"
+  },
+  "hero": {
+    "headline": "[Rajasthani translation for Growing the Future of Indian Agriculture]",
+    "description": "[Rajasthani translation for description]",
+    "view_products": "[Rajasthani for View Products]",
+    "get_started": "[Rajasthani for Get Started]",
+    "stats": {
+      "happy_farmers": "[Rajasthani for 500+ Happy Farmers]",
+      "success_rate": "[Rajasthani for 98% Success Rate]",
+      "support": "[Rajasthani for 24/7 Support]"
+    },
+    "cards": {
+      "smart_farming": "[Rajasthani for Smart Farming]",
+      "smart_farming_sub": "[Rajasthani for AI-Powered]",
+      "iot_sensors": "[Rajasthani for IoT Sensors]",
+      "iot_sensors_sub": "[Rajasthani for Real-Time Data]",
+      "precision_agriculture": "[Rajasthani for Precision Agriculture]",
+      "precision_agriculture_sub": "[Rajasthani for Accuracy]"
+    }
+  },
+  "about": {
+    "title": "[Rajasthani for About Agrow]",
+    "description": "[Rajasthani translation for description]",
+    "subheading": "[Rajasthani for Transforming Agriculture with Technology]",
+    "text1": "[Rajasthani translation for text1]",
+    "highlight": "[Rajasthani for Specially designed for farmers in Rajasthan and Tamil Nadu]",
+    "features": {
+      "expert_team": {
+        "title": "[Rajasthani for Expert Team]",
+        "description": "[Rajasthani translation for description]"
+      },
+      "proven_results": {
+        "title": "[Rajasthani for Proven Results]",
+        "description": "[Rajasthani translation for description]"
+      },
+      "local_reach": {
+        "title": "[Rajasthani for Local Reach]",
+        "description": "[Rajasthani translation for description]"
+      },
+      "growth_focused": {
+        "title": "[Rajasthani for Growth Focused]",
+        "description": "[Rajasthani translation for description]"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "[Rajasthani for What Our Customers Say]",
+    "description": "[Rajasthani translation for description]",
+    "join_cta": "[Rajasthani for Join thousands of satisfied customers worldwide]",
+    "start_journey": "[Rajasthani for Start Your Journey]",
+    "items": [
+      {
+        "name": "[Rajasthani for Ram Singh]",
+        "role": "[Rajasthani for Organic Farmer]",
+        "location": "[Rajasthani for Jaipur, Rajasthan]",
+        "text": "[Rajasthani translation for text]"
+      },
+      {
+        "name": "[Rajasthani for Murugan]",
+        "role": "[Rajasthani for Commercial Farmer]",
+        "location": "[Rajasthani for Chennai, Tamil Nadu]",
+        "text": "[Rajasthani translation for text]"
+      },
+      {
+        "name": "[Rajasthani for Priya Sharma]",
+        "role": "[Rajasthani for Greenhouse Manager]",
+        "location": "[Rajasthani for Udaipur, Rajasthan]",
+        "text": "[Rajasthani translation for text]"
+      }
+    ]
+  },
+  "language_popup": {
+    "title": "[Rajasthani for Choose Your Language]",
+    "select": "[Rajasthani for Select Language]",
+    "confirm": "[Rajasthani for Confirm]"
+  }
+}
